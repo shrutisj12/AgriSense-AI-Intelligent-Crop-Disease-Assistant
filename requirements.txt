@@ -1,5 +1,23 @@
+# Core Libraries
 pandas
 numpy
 scikit-learn
-streamlit
+
+# Visualization
 matplotlib
+seaborn
+
+# Web App Framework
+streamlit
+
+# Deployment Tools
+pyngrok
+streamlit-option-menu
+
+# Model Serialization
+joblib
+
+# Utility Libraries
+threading
+time
+
